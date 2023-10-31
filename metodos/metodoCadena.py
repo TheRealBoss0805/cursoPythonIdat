@@ -15,4 +15,4 @@ print(busqueda_find2)
 print(busqueda_find3)
 
 #busqueda_index = cadena1.index("v") #IGUAL QUE FIN PERO SI NO ENCUENTRA DEVUELVE UNA EXCEPCION
-print(busqueda_index)
+#print(busqueda_index)

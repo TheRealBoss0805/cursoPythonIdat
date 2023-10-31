@@ -13,8 +13,8 @@ conjunto = {"Fernando", "Rivera", 1.71, True, 70} #no se puede ingresar por un Ã
 #tampoco se pueden repetir valores
 #es necesario si o si un bucle para recorrer los elementos
 #print(conjunto[3]) no es posible
-conjunto = {"THE BOSS"}
-print(conjunto)
+conjunto = {"THE BOSS"} #LO RENICIA COMPLETAMENTE
+print(conjunto) 
 
 #CREANDO UN DICCIONARIO (CLAVE Y VALOR COMO UN OBJETO EN JS)
 diccionario = {
